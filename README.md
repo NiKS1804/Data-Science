@@ -4,4 +4,5 @@ This repository contains codes for data sciences and python tasks related to dat
  * Basic Python
  * Machine Learning
  * Deep Learning
- * Miscellaneous
+ * Other python tasks
+ 
