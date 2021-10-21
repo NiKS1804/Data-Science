@@ -50,3 +50,15 @@ MANIFEST
 # Per-project virtualenvs
 .venv*/
 .conda*/
+
+# Datasets
+*.csv
+*.xml
+*.wav
+*.json
+*.jpg
+*.jpeg
+*.png
+*.mp3
+*.mp4
+*.mov
